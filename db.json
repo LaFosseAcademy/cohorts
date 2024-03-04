@@ -1,0 +1,156 @@
+{
+  "cohorts": [
+    {
+      "name": "guthrie",
+      "startDate": "2024-01-08",
+      "endDate": "2024-03-29"
+    },
+    {
+      "name": "reddy",
+      "startDate": "2023-10-23",
+      "endDate": "2024-01-19"
+    },
+    {
+      "name": "la fosse academy presents",
+      "startDate": "2023-09-26",
+      "endDate": "2023-09-26"
+    },
+    {
+      "name": "jacquard",
+      "startDate": "2023-09-04",
+      "endDate": "2023-11-24"
+    },
+    {
+      "name": "yao",
+      "startDate": "2023-07-17",
+      "endDate": "2023-10-06"
+    },
+    {
+      "name": "liskov",
+      "startDate": "2023-05-30",
+      "endDate": "2023-08-18"
+    },
+    {
+      "name": "avgerou",
+      "startDate": "2023-04-03",
+      "endDate": "2023-06-23"
+    },
+    {
+      "name": "torvalds",
+      "startDate": "2023-02-20",
+      "endDate": "2023-05-12"
+    },
+    {
+      "name": "lamarr",
+      "startDate": "2023-01-09",
+      "endDate": "2023-03-31"
+    },
+    {
+      "name": "kamkwamba",
+      "startDate": "2022-10-31",
+      "endDate": "2023-02-10"
+    },
+    {
+      "name": "sholes",
+      "startDate": "2022-10-10",
+      "endDate": "2023-01-06"
+    },
+    {
+      "name": "gustafsson",
+      "startDate": "2022-09-12",
+      "bondEndDate": "2023-02-17"
+    },
+    {
+      "name": "nakamoto",
+      "startDate": "2022-08-29",
+      "endDate": "2022-11-18"
+    },
+    {
+      "name": "shaw",
+      "startDate": "2022-08-08"
+    },
+    {
+      "name": "bhatia",
+      "startDate": "2022-07-04"
+    },
+    {
+      "name": "rincon",
+      "startDate": "2022-06-13"
+    },
+    {
+      "name": "morgan",
+      "startDate": "2022-06-06"
+    },
+    {
+      "name": "al-jazari",
+      "startDate": "2022-05-16"
+    },
+    {
+      "name": "auguste",
+      "startDate": "2022-04-25"
+    },
+    {
+      "name": "gebru",
+      "startDate": "2022-03-14"
+    },
+    {
+      "name": "mitnick",
+      "startDate": "2022-02-28"
+    },
+    {
+      "name": "wilkes",
+      "startDate": "2022-02-14"
+    },
+    {
+      "name": "lytical",
+      "startDate": "2022-01-10"
+    },
+    {
+      "name": "bhatt",
+      "startDate": "2021-11-22",
+      "endDate": "2022-03-04"
+    },
+    {
+      "name": "conway",
+      "startDate": "2021-11-01",
+      "endDate": "2022-02-11"
+    },
+    {
+      "name": "baker",
+      "startDate": "2021-09-13"
+    },
+    {
+      "name": "kare",
+      "startDate": "2021-08-23"
+    },
+    {
+      "name": "kurita",
+      "startDate": "2021-07-19"
+    },
+    {
+      "name": "morris",
+      "startDate": "2021-06-14"
+    },
+    {
+      "name": "hamilton",
+      "startDate": "2021-02-22"
+    },
+    {
+      "name": "weiland",
+      "startDate": "2020-10-26",
+      "endDate": "2021-02-05"
+    },
+    {
+      "name": "jackson",
+      "startDate": "2020-07-06"
+    }
+  ],
+  "legacy": [
+    {
+      "name": "turing"
+    },
+    {
+      "name": "lovelace"
+    }
+  ]
+}
