@@ -1,5 +1,10 @@
 {
   "cohorts": [
+    {      
+      "name": "benioff",
+      "startDate": "2024-07-08",
+      "endDate": "2024-09-06"
+    },
     {
       "name": "guthrie",
       "startDate": "2024-01-08",
